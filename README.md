@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  ![github info 1](https://github-readme-stats.vercel.app/api?username=TheAwesome98-Real&show_icons=true&theme=nord&include_all_commits=true)
-  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAwesome98-Real&langs_count=14&theme=nord&layout=compact)
+  ![github info 1](https://github-readme-stats.vercel.app/api?username=TheG0df2ther&show_icons=true&theme=nord&include_all_commits=true)
+  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0df2ther&langs_count=14&theme=nord&layout=compact)
 
 Here are some ideas to get you started:
 
