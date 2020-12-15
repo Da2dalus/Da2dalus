@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about *something* ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
 
 - 📫 How to reach me:
-     mail: dinovitolalala@protonmail.com
-     discord: TheG0df2ther#9658
+     - mail: dinovitolalala@protonmail.com
+     - discord: TheG0df2ther#9658
      
 - ⚡ Fun fact: I am someone..... 😜
