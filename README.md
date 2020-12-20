@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
      - mail: dinovitolalala@protonmail.com
      - discord: TheG0df2ther#9658
+
+- 🎨 Hobbys: Lockpicking, senet and chess.
      
 - ⚡ Fun fact: I am someone..... 😜
