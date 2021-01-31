@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/TheG0df2ther/Loveware
+- 🔭 I’m currently working on https://github.com/MalDev101/WoundedGryphon (Virus/Stager)
 
-- 🌱 I’m currently learning *something*
+- 🌱 I’m currently learning bash scripting
 
-- 👯 I’m looking to collaborate on *something* (again)
+- 👯 I’m looking to collaborate on malware development for fun
 
 - 🤔 I’m looking for help with *something* ( ͡• ͜ʖ ͡•)
 
