@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/MalDev101/WoundedGryphon (Virus/Stager)
+- 🔭 I’m currently working on https://github.com/MalDev101/WoundedGryphon (Virus/Ransomware)
 
 - 🌱 I’m currently learning bash scripting
 
