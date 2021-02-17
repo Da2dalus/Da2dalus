@@ -5,6 +5,9 @@
   
   
   ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0df2ther&langs_count=14&theme=nord&layout=compact)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=TheG0df2ther&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 Here are some ideas to get you started:
 
