@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-  ![github info 1](https://github-readme-stats.vercel.app/api?username=TheG0df2ther&show_icons=true&theme=nord&include_all_commits=true)
+  ![github info 1](https://github-readme-stats.vercel.app/api?username=Da2dalus&show_icons=true&theme=nord&include_all_commits=true)
   
   
   
-  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0df2ther&langs_count=14&theme=nord&layout=compact)
+  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Da2dalus&langs_count=14&theme=nord&layout=compact)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=TheG0df2ther&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Da2dalus&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Here are some ideas to get you started:
