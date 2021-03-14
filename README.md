@@ -28,3 +28,27 @@ Here are some ideas to get you started:
 - 🎨 Hobbys: Lockpicking, senet and chess.
      
 - ⚡ Fun fact: I am someone..... 😜
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Da2dalus](https://github.com/Da2dalus/Cerebro/blob/main/pictures/Da2dalus.gif)
