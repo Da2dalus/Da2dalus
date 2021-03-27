@@ -32,26 +32,3 @@ Here are some ideas to get you started:
   <img src="http://31.media.tumblr.com/bfc78e953e1a40ec67b98dd8ef926ceb/tumblr_mkvut0EDHD1r7tto1o1_500.gif" width="200" >
 
 
-##
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Da2dalus](https://github.com/Da2dalus/Cerebro/blob/main/pictures/Da2dalus.gif)
