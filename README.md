@@ -29,6 +29,6 @@ Here are some ideas to get you started:
      
 - ⚡ Fun fact: I am someone..... 😜
 
-[](https://github.com/Da2dalus/Da2dalus/blob/main/My%20Post(5).png)
+[lol](https://github.com/Da2dalus/Da2dalus/blob/main/My%20Post(5).png)
 
 
