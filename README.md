@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am someone..... 😜
 
 
-[](https://i.pinimg.com/originals/52/c8/e2/52c8e2755f434a0a38e910d4072fb4d9.gif)
+![](https://i.pinimg.com/originals/52/c8/e2/52c8e2755f434a0a38e910d4072fb4d9.gif)
