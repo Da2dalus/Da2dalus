@@ -33,9 +33,3 @@ Here are some ideas to get you started:
 
 
 ![](https://i.pinimg.com/originals/52/c8/e2/52c8e2755f434a0a38e910d4072fb4d9.gif)
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?controls=0" title="Teen Spirit!!!!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
